@@ -17,3 +17,20 @@
     <img src="https://skillicons.dev/icons?i=github,js,html,css,typescript,react,redux,postman" />
   </a>
 </p>
+
+<h4>Мои проекты:</h4>
+1. SPA с карточками продуктов (Pet-проект)
+Ссылка на проект: https://ggumiblv.github.io/my-test-application/#/
+
+2. Проект Procharity. 
+Ссылка на проект: https://procharity.ru/
+Описание проекта: Сайт помогающий благотворительным фондам найти волонтеров.
+Используемые технологии: React, Redux, TypeScript, API, SASS.
+Роль: Разработка интерфейса, интеграция с API, управление состоянием.
+
+3. Конструктор бургеров с динамическим интерфейсом на React и серверной частью на Node.js (Учебный проект)
+Ссылка на проект: https://github.com/ggumiblv/stellar-burger
+
+
+
+
