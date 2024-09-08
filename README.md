@@ -14,6 +14,6 @@
 <h4>Мои навыки:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,js,html,css,typescript,react,redux" />
+    <img src="https://skillicons.dev/icons?i=github,js,html,css,typescript,react,redux,postman,storybook" />
   </a>
 </p>
