@@ -21,7 +21,9 @@
 <h4>Мои проекты:</h4>
 <ol>
 <li>SPA с карточками продуктов (Pet-проект) </br>
-Ссылка на проект: https://ggumiblv.github.io/my-test-application/#/</li>
+Ссылка на проект: https://ggumiblv.github.io/my-test-application/#/ </br>
+Ссылка на код: https://github.com/ggumiblv/my-test-application
+</li>
 
 <li>Проект Procharity. </br>
 Ссылка на проект: https://procharity.ru/</br>
