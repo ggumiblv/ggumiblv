@@ -20,7 +20,7 @@
 
 <h4>Мои проекты:</h4>
 <ol>
-<li>SPA с карточками продуктов (Pet-проект)
+<li>SPA с карточками продуктов (Pet-проект) </br>
 Ссылка на проект: https://ggumiblv.github.io/my-test-application/#/</li>
 
 <li>Проект Procharity. </br>
