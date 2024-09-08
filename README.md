@@ -19,18 +19,20 @@
 </p>
 
 <h4>Мои проекты:</h4>
-1. SPA с карточками продуктов (Pet-проект)
-Ссылка на проект: https://ggumiblv.github.io/my-test-application/#/
+<ul>
+<li>1. SPA с карточками продуктов (Pet-проект)
+Ссылка на проект: https://ggumiblv.github.io/my-test-application/#/</li>
 
-2. Проект Procharity. 
-Ссылка на проект: https://procharity.ru/
-Описание проекта: Сайт помогающий благотворительным фондам найти волонтеров.
-Используемые технологии: React, Redux, TypeScript, API, SASS.
+<li>2. Проект Procharity. </br>
+Ссылка на проект: https://procharity.ru/</br>
+Описание проекта: Сайт помогающий благотворительным фондам найти волонтеров. </br>
+Используемые технологии: React, Redux, TypeScript, API, SASS.</br>
 Роль: Разработка интерфейса, интеграция с API, управление состоянием.
+</li>
 
-3. Конструктор бургеров с динамическим интерфейсом на React и серверной частью на Node.js (Учебный проект)
-Ссылка на проект: https://github.com/ggumiblv/stellar-burger
-
+<li> 3. Конструктор бургеров с динамическим интерфейсом на React и серверной частью на Node.js (Учебный проект) </br>
+Ссылка на проект: https://github.com/ggumiblv/stellar-burger </li>
+</ul>
 
 
 
