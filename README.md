@@ -34,6 +34,11 @@
 
 <li>Конструктор бургеров с динамическим интерфейсом на React и серверной частью на Node.js (Учебный проект) </br>
 Ссылка на проект: https://github.com/ggumiblv/stellar-burger </li>
+
+<li>Конструктор карточек мест с динамическим интерфейсом на JavaScript и серверной частью на Node.js (Учебный проект).</br>
+Ссылка на проект: https://github.com/ggumiblv/mesto-project-ff </br>
+Ссылка на код https://ggumiblv.github.io/mesto-project-ff/
+</li>
 </ol>
 
 
