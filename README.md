@@ -1,8 +1,6 @@
 <h1 align="center">Всем привет, меня зовут Гульназ</h> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я фронтенд-разработчица из России</h3>
 
-<h4>Обо мне </h4>
 <p>
   🔭 Активно ищу работу. <a href="https://hh.ru/resume/01147acbff0da13de40039ed1f554d4e30786b" target="_blank">Вот мое резюме</a>
 </p>
