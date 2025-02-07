@@ -3,13 +3,6 @@
 
 
 
-
-
-<p align="center">
-  🔭 Активно ищу работу. <a href="https://hh.ru/resume/01147acbff0da13de40039ed1f554d4e30786b" target="_blank">Вот мое резюме</a>
-</p>
-
-
 <h4>Мои навыки:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
