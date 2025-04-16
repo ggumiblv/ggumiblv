@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+   [![codewars](https://www.codewars.com/users/ggumiblv25/badges/small)](https://www.codewars.com/users/ggumiblv25) 
+</p>
+
 <h4>Мои проекты:</h4>
 <ol>
 <li>SPA с карточками продуктов (Pet-проект) </br>
