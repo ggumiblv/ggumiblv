@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-   [![codewars](https://www.codewars.com/users/ggumiblv25/badges/small)](https://www.codewars.com/users/ggumiblv25) 
+![Codewars Badge](https://www.codewars.com/users/ggumiblv25/badges/large)
 </p>
 
 <h4>Мои проекты:</h4>
