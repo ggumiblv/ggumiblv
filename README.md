@@ -11,9 +11,8 @@
 </p>
 
 
-<p align="center">
 ![Codewars](https://github.r2v.ch/codewars?user=ggumiblv25)
-</p>
+
 
 <h4>Мои проекты:</h4>
 <ol>
