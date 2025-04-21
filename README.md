@@ -10,6 +10,8 @@
   </a>
 </p>
 
+![Codewars](https://github.r2v.ch/codewars?user=ggumiblv25)
+
 <h4>Мои проекты:</h4>
 <ol>
 <li>SPA с карточками продуктов (Pet-проект) </br>
