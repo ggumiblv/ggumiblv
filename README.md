@@ -7,10 +7,3 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,js,html,css,typescript,react,redux,postman" />
   </a>
-
-
-![Codewars](https://github.r2v.ch/codewars?user=ggumiblv25)
-
-
-
-
